@@ -1,4 +1,4 @@
-package by.training.runner;
+package by.epamtc.gavrilovichivan.runner;
 
 public class Runner {
 

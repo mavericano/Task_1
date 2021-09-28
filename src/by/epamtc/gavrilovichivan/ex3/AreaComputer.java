@@ -1,4 +1,4 @@
-package by.training.ex3;
+package by.epamtc.gavrilovichivan.ex3;
 
 import static java.lang.Math.sqrt;
 

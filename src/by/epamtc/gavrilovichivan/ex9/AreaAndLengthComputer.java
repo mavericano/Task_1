@@ -1,4 +1,4 @@
-package by.training.ex9;
+package by.epamtc.gavrilovichivan.ex9;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.PI;

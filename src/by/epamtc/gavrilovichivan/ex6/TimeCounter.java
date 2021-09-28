@@ -1,4 +1,4 @@
-package by.training.ex6;
+package by.epamtc.gavrilovichivan.ex6;
 
 public class TimeCounter {
 

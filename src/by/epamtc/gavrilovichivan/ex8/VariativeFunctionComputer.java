@@ -1,4 +1,4 @@
-package by.training.ex8;
+package by.epamtc.gavrilovichivan.ex8;
 
 import static java.lang.Math.pow;
 

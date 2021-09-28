@@ -1,4 +1,4 @@
-package by.training.ex10;
+package by.epamtc.gavrilovichivan.ex10;
 
 import static java.lang.Math.tan;
 

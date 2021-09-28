@@ -1,4 +1,4 @@
-package by.training.ex4;
+package by.epamtc.gavrilovichivan.ex4;
 
 public class EvenNumberFinder {
 

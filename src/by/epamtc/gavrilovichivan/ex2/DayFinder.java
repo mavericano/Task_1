@@ -1,4 +1,4 @@
-package by.training.ex2;
+package by.epamtc.gavrilovichivan.ex2;
 
 public class DayFinder {
 

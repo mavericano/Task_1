@@ -1,4 +1,4 @@
-package by.training.ex1;
+package by.epamtc.gavrilovichivan.ex1;
 
 public class DigitFinder {
 

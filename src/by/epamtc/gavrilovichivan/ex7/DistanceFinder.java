@@ -1,4 +1,4 @@
-package by.training.ex7;
+package by.epamtc.gavrilovichivan.ex7;
 
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;

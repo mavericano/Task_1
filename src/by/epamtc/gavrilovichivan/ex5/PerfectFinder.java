@@ -1,4 +1,4 @@
-package by.training.ex5;
+package by.epamtc.gavrilovichivan.ex5;
 
 import java.util.ArrayList;
 
