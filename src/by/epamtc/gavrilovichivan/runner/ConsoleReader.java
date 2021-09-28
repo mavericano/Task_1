@@ -9,7 +9,7 @@ public class ConsoleReader {
         if (scanner.hasNextDouble()) {
             return scanner.nextDouble();
         } else {
-            throw new EmptyConsoleException("The console is empty");
+            throw new EmptyConsoleException("The console has no decimal numbers");
         }
     }
 
@@ -18,7 +18,7 @@ public class ConsoleReader {
         if (scanner.hasNextInt()) {
             return scanner.nextInt();
         } else {
-            throw new EmptyConsoleException("The console is empty");
+            throw new EmptyConsoleException("The console has no integer numbers");
         }
     }
 }
