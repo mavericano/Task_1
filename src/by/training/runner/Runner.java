@@ -1,13 +1,14 @@
 package by.training.runner;
 
 import by.training.ex1.DigitFinder;
+import by.training.ex10.FunctionComputer;
 
 public class Runner {
 
     public static void main(String[] args) {
-        int i = DigitFinder.getSquareLastDigit(1748783843);
+        String table = FunctionComputer.buildTable(1, 20, 1);
 
-        System.out.println(i);
+        System.out.println(table);
     }
 
 }
