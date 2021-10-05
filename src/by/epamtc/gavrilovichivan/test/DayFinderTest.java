@@ -1,7 +1,6 @@
-package by.epamtc.gavrilovichivan.tests;
+package by.epamtc.gavrilovichivan.test;
 
 import by.epamtc.gavrilovichivan.ex2.DayFinder;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,4 +1,4 @@
-package by.epamtc.gavrilovichivan.tests;
+package by.epamtc.gavrilovichivan.test;
 
 import by.epamtc.gavrilovichivan.ex4.EvenNumberFinder;
 import org.junit.Test;
