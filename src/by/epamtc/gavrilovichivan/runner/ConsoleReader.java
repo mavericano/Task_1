@@ -6,8 +6,9 @@ public class ConsoleReader {
     static final Scanner scanner = new Scanner(System.in);
 
     public static double readDouble() throws EmptyConsoleException {
-        if (scanner.hasNextDouble()) {
-            return scanner.nextDouble();
+        String input = scanner.nextLine();
+        if (input.matches("^-?\\d+[.,]\\d+$")) {
+            return Double.parseDouble(input);
         } else {
             throw new EmptyConsoleException("The console has no decimal numbers");
         }
@@ -15,8 +16,9 @@ public class ConsoleReader {
 
 
     public static int readInt() throws EmptyConsoleException {
-        if (scanner.hasNextInt()) {
-            return scanner.nextInt();
+        String input = scanner.nextLine();
+        if (input.matches("^-?/d+$")) {
+            return Integer.parseInt(input);
         } else {
             throw new EmptyConsoleException("The console has no integer numbers");
         }
